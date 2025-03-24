@@ -1,0 +1,33 @@
+{
+  "name": "sakura-forest-walk",
+  "version": "1.0.0",
+  "description": "A 3D sakura forest walking experience",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.26.10",
+    "howler": "^2.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.158.0",
+    "ts-loader": "^9.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "@types/three": "^0.174.0",
+    "babel-loader": "^10.0.0",
+    "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.5.3",
+    "style-loader": "^3.3.3",
+    "typescript": "^5.8.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
