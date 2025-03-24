@@ -7,6 +7,8 @@ This project demonstrates a procedurally generated 3D environment featuring:
 - Player-controlled character movement
  Built with  React and Three.js.
 
+# demo
+screenshots/demo.gif
 
 ## Getting Started
 
